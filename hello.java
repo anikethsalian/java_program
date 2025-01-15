@@ -1,7 +1,9 @@
 class hello
 {
- public static voiud main(String args[])
+ public static void main(String args[])
  {
-  System.out.println("Hello gandu keerti");
+  System.out.println("Hello chaks keerti");
+  System.out.println("welome to CS department");
+  System.out.println("3rd sem batch 1");
  }
 }
